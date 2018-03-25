@@ -1,2 +1,2 @@
 # QC-SURVIVALISTES
-survival_game, beginner on unity and github.
+Our personal survival_game, we are beginner on Unity3d and Github.
